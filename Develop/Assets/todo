@@ -1,0 +1,7 @@
+1. current day is displayed at the top of the calendar
+Done
+2. add time blocks for every hour from 9am to  5pm 
+Done
+3. colour code time blocks according to current time of the day 
+
+4. enter event as text into a time block (click event on time block to enter text and save in local storage within that time block?)
