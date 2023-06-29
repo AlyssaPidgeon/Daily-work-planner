@@ -1,0 +1,19 @@
+# Daily Work Planner Application
+
+## Description
+
+The application is a simple calendar applciation that allows a user to enter information into a day scheduler for a work day of 9am - 5pm. The day scheduler is presented in one hour blocks from 9am until 5pm and the user's input into each time block can be save to the local storage. The time blocks are also presented to display a different colour depending on the time of the day adn can be display as past (grayc oolour time block), present (red colour time block) and present (green coloured time block).
+
+## Usage
+
+The following link will direct you to the deployed web application:
+
+Link to the webpage: https://alyssapidgeon.github.io/Week-one-challenge-Horiseon/#social-media-marketing
+
+This is an image of the web application's appearance:
+
+Image: ![Image of web applciation](Horiseon Web Application Image.png)
+
+## License
+
+MIT License
